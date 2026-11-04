@@ -1,0 +1,27 @@
+import Navbar from "./Components/Navbar";
+import Hero from "./Components/Hero";
+import About from "./Components/About";
+import Education from "./Components/Education";
+import Skills from "./Components/Skills";
+import Projects from "./Components/Projects";
+import Contact from "./Components/Contact";
+import Footer from "./Components/Footer";
+import BackToTop from "./Components/BackToTop";
+
+function App() {
+  return (
+    <div className="bg-dark-900 text-white font-sans antialiased leading-relaxed min-h-screen">
+      <Navbar />
+      <Hero />
+      <About />
+      <Education />
+      <Skills />
+      <Projects />
+      <Contact />
+      <Footer />
+      <BackToTop />
+    </div>
+  );
+}
+
+export default App;

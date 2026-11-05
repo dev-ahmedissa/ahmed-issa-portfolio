@@ -1,36 +1,51 @@
-# Ahmed Issa Portfolio
+<p align="center">
+  <img src="./ahmed-issa-portfolio.jpg" alt="Ahmed Issa Portfolio" width="700" />
+</p>
 
-Modern and responsive personal portfolio built with **React**, **Tailwind CSS**, and **Vite**.
+# 👨‍💻 Ahmed Issa | Portfolio
 
----
+A modern, fully responsive personal portfolio website showcasing my projects and skills as a Frontend Developer. Built with React, Tailwind CSS, and Vite.
 
-### Live Demo
-🔗 [View Live Website](https://dev-ahmedissa.github.io/ahmed-issa-portfolio/)
+🔗 **Live Demo:** [dev-ahmedissa.github.io/ahmed-issa-portfolio](https://dev-ahmedissa.github.io/ahmed-issa-portfolio/)
 
----
+## 📸 Preview
 
-### Features
-- Fully responsive design
-- Clean and modern UI
-- Smooth scrolling navigation
-- Skills section
-- Projects showcase
-- Contact section
-- Fast performance with Vite
+![Ahmed Issa Portfolio Website](./previewwwwww.jpg)
 
----
+## ✨ Features
 
-### Tech Stack
-- React 18
+- Fully responsive layout that adapts to mobile, tablet, and desktop screens
+- Modern, clean design built with Tailwind CSS
+- Fast development and build with Vite
+- Component-based structure with React
+- Showcase of my projects with links to live demos and source code
+- Contact information for freelance and remote opportunities
+
+## 🛠️ Built With
+
+- React
 - Tailwind CSS
 - Vite
-- JavaScript (ES6+)
-- Font Awesome
+- JavaScript
 
----
+## 🚀 Run Locally
 
-### Getting Started
-
-1. Clone the repository:
 ```bash
 git clone https://github.com/dev-ahmedissa/ahmed-issa-portfolio.git
+cd ahmed-issa-portfolio
+npm install
+npm run dev
+```
+
+Then open the local URL shown in your terminal (usually `http://localhost:5173`).
+
+## 📦 Build
+
+```bash
+npm run build
+```
+
+## 📬 Contact
+
+**Ahmed Issa**, Frontend Developer
+[ahmednashatissa@gmail.com](mailto:ahmednashatissa@gmail.com) • [GitHub](https://github.com/dev-ahmedissa)
